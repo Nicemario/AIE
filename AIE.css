@@ -1,0 +1,16 @@
+BODY	{
+	font-family: 'Comic Sans MS';
+	font: size 15pt;
+	color:#ffffff;
+
+	margin:48px 32px 32px 32px;
+ 	background: #ff0000;
+  
+	scrollbar-face-color: #ff0000;
+	scrollbar-shadow-color: #292929;
+	scrollbar-highlight-color: #88a376;
+	scrollbar-3dlight-color: #cddbc8;
+	scrollbar-darkshadow-color: #1C261E;
+	scrollbar-track-color: #0400ff;
+	scrollbar-arrow-color: hsl(0, 0%, 100%);
+	}
